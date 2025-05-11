@@ -2,7 +2,7 @@ package org.rackbox.patterns.struct.decorator;
 
 public class WhipDecorator extends CoffeeDecorator {
 
-    public WhipDecorator(ICoffee coffee) {
+    public WhipDecorator(Coffeee coffee) {
         super(coffee);
     }
 

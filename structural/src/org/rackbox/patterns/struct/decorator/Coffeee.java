@@ -3,7 +3,7 @@ package org.rackbox.patterns.struct.decorator;
 /**
  * Interface representing a coffee object.
  */
-public interface ICoffee {
+public interface Coffeee {
     String getDescription();
 
     double getCost();

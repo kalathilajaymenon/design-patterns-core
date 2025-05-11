@@ -1,6 +1,6 @@
 package org.rackbox.patterns.struct.decorator;
 
-public class SimpleCoffee implements ICoffee{
+public class SimpleCoffee implements Coffeee {
     @Override
     public String getDescription() {
         return "Simple coffee";
